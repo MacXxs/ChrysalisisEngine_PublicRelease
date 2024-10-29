@@ -1,4 +1,4 @@
-# ChrysalisisEngine
+# ChrysalisEngine
 
 3D Game engine made with C++ & OpenGL, created and developed by [Miquel Prieto Moliné](https://github.com/MacXxs)
 </br>
